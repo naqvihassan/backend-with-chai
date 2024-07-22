@@ -1,0 +1,19 @@
+{
+  "name": "backend-with-chai",
+  "version": "1.0.0",
+  "description": "This is my first interaction with backend with chai",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Hassan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
